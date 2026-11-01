@@ -20,7 +20,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Quantitative Researcher, Data Analyst"
   location         : "New York, NY"
-  employer         : "Red Brick University"
+  employer         : #
   uri              : # URL
   email            : "thapa.safal@outlook.com" 
 
