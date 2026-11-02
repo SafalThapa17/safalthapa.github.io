@@ -54,4 +54,4 @@ I built a timing side-channel attack in C against Linux kernel same-page merging
 
 Big Data course class symposium on intersection of Data and Art.
 
-[Poster or slides](https://github.com/SafalThapa17/Big-Data_2025/blob/954eca49b5008539449efd1b6b2a159977f79b77/Symposium/Symposium_Presentation.pdf)
+[Slides](https://github.com/SafalThapa17/Big-Data_2025/blob/954eca49b5008539449efd1b6b2a159977f79b77/Symposium/Symposium_Presentation.pdf)
