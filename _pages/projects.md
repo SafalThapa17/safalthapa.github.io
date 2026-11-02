@@ -45,20 +45,13 @@ I built a timing side-channel attack in C against Linux kernel same-page merging
 
 [Report](LINK)
 
-### TrailMate: A Privacy Case Study
-*Data Privacy · [Term]*
-
-Designed a fictional trekking app as a thought experiment to examine what personal data such an app collects, the privacy risks involved, and how design choices could reduce them. Presented to the class.
-
-[Slides](LINK)
-
 ---
 
 ## Symposiums and Presentations
 
-### [Presentation title]
-*[Event name] · [University] · [Month Year]*
+### Exploring the Intersection of Data and Art
+*Big Data, Spring 25 · The City College of the City University of New York · 2025*
 
-[One or two sentences: what you presented and to whom.]
+Big Data course class symposium on intersection of Data and Art.
 
-[Poster or slides](LINK)
+[Poster or slides](https://github.com/SafalThapa17/Big-Data_2025/blob/954eca49b5008539449efd1b6b2a159977f79b77/Symposium/Symposium_Presentation.pdf)
