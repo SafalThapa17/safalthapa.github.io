@@ -41,12 +41,21 @@ Scanned forms present a unique challenge for natural language processing: the me
 ### Inventory Simulation and Statistical Analysis in R
 *DSE I1030: Applied Statistics · Fall 2024*
 
-Exploring different strategy for inventory problems with visualization in R language
+Exploring different strategy for inventory problems with visualization in R language 
+Predicting Cardiovascular Disease Using Classification Models
+and Ensemble Learning
 
 [Report](https://github.com/SafalThapa17/InventorySimulation-and-Statistical-Analysis/blob/92d847d738c3339e233dc9261a29c663feef930b/Safal_Thapa_Project%201_Part_.pdf)
 
 ---
+### Predicting Cardiovascular Disease Using Classification Models and Ensemble Learning
+*DSE I2100 Applied Machine Learning and Data Mining · Fall 2025 *
 
+Predicting Cardiovascular Disease Using Classification Models and Ensemble Learning
+
+[Report](https://github.com/SafalThapa17/InventorySimulation-and-Statistical-Analysis/blob/92d847d738c3339e233dc9261a29c663feef930b/Safal_Thapa_Project%201_Part_.pdf)
+
+---
 ## Symposiums and Presentations
 
 ### Exploring the Intersection of Data and Art
