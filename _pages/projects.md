@@ -31,19 +31,19 @@ Partial least squares showed a significant brain–behavior relationship (r = 0.
 ## Class Projects
 
 ### FormVISION: Semantic Entity Recognition on Scanned Forms
-*Team project · CSCI1910 — Deep Neural Networks & AI Applications · Spring 2026*
+*Team project · CSCI1910 : Deep Neural Networks & AI Applications · Spring 2026*
 
 Scanned forms present a unique challenge for natural language processing: the meaning of a word often depends not on its text content alone but on its two-dimensional position within the document. This paper presents FormVISION, a systematic study of Semantic Entity Recognition (SER) on the FUNSD benchmark dataset. We progressively evaluate four model families — a rule-based baseline, BERT (text-only), LayoutLMv2, and LayoutLMv3 — across a rigorous experimental framework including a 28-configuration hyperparameter grid search, a 150-run multi-seed ordering ablation, learning curve analysis, and label schema expansion. Our best result, LayoutLMv3 with tuned hyperparameters and shuffled entity ordering, achieves an entity-level F1 of 0.803 — a 43.4-point improvement over the default BERT baseline of 0.369. A key finding is that the effect of input token ordering reverses by model: BERT loses 7.4 F1 points when entity order is shuffled, while LayoutLMv3 gains 2.3 points, demonstrating that explicit spatial features allow multimodal models to use sequence order as data augmentation. Expansion of the OTHER class into four subcategories further reveals that the heterogeneous catch-all label masks distinct detection challenges requiring different input modalities.
 
 [Report](https://github.com/SafalThapa17/formVision/blob/8881070fe0b7374b440d8e795c834119ced0da78/reports/final_report.md) · [Code](https://github.com/SafalThapa17/formVision/tree/8881070fe0b7374b440d8e795c834119ced0da78/notebooks/experiments)
 
 
-### Memory Deduplication Timing Side-Channel
-*OS Security · [Term]*
+### Inventory Simulation and Statistical Analysis in R
+*DSE I1030: Applied Statistics · Fall 2024*
 
-I built a timing side-channel attack in C against Linux kernel same-page merging (KSM) on Ubuntu (ARM64), and documented the kernel's layers of defense in a written report.
+Exploring different strategy for inventory problems with visualization in R language
 
-[Report](LINK)
+[Report](https://github.com/SafalThapa17/InventorySimulation-and-Statistical-Analysis/blob/92d847d738c3339e233dc9261a29c663feef930b/Safal_Thapa_Project%201_Part_.pdf)
 
 ---
 
