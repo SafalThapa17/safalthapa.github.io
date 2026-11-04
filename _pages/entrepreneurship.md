@@ -25,3 +25,12 @@ We also expanded to serve the wider local food economy. Fruit vendors store appl
 Running the facility left me with questions that I could not answer from the business side alone. When farmers store their harvest, are they actually able to sell at better prices, or do storage costs and price changes reduce those gains? Who benefits most from storage: larger farmers, smallholders, or traders? And what makes it difficult for small storage businesses like mine to grow? Is it access to credit, uncertain demand, or a lack of market information to make better decisions?
 
 These questions have made me curious about the role of data and research in understanding post-harvest storage, price risk, and farmer welfare. I want to explore these questions through careful data analysis and evidence, and understand how research can help farmers, businesses, and policymakers make better decisions about where storage can have the greatest impact. This is also what has led me to explore PhD research in this area.
+
+## Divyaghar: Artist Residency (Future Project)
+Creative tourism · Nepal · Co-authored with Freeman Word
+
+A long-term dream project: an artist residency in Nepal that a friend and I hope to build one day. Together, we wrote a full business plan, grounded in research on Nepal's tourism data, for a retreat that combines high-quality lodging, mindful entertainment and a global culinary experience with dedicated time and space for guests to create art.
+
+**Mission:** to bring together people from all walks of life, promote cultural awareness, and give artists and seekers the time and space to do meaningful creative work.
+
+[Read the business plan (PDF)](/files/Divyaghar_Business_Plan.pdf)
