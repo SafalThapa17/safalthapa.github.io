@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 ## About Me
-** Quantitative Research | M.S. Data Science & Engineering | Python, Statistics, Probability & Machine Learning | Systematic Research | Agro Enterprenuer **
+**Quantitative Research · Data Science · Python, Statistics, Probability & Machine Learning · Agricultural Entrepreneur**
 
 I work at the intersection of data, economics and agriculture. 
 
