@@ -5,8 +5,8 @@ author_profile: true
 ---
 
 ## Hemja Agro Private Limited, Co-founder
-1000 MT Post-harvest storage · Pokhara, Nepal · 2019 – 
-[Website](https://www.hemjaagro.com.np/)
+1000 MT Post-harvest storage · Pokhara, Nepal · 2019 – Present
+· [Website](https://www.hemjaagro.com.np/)
 
 I co-founded a post-harvest storage facility in 2019 and ran its day-to-day operations until 2024, when I moved to the United States for graduate school. The facility serves more than 700 farmers each year. Our core business is storing potato seed, where reliable conditions protect seed quality through the months between harvest and planting.
 
