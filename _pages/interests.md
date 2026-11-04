@@ -4,7 +4,9 @@ title: "Quant Research"
 author_profile: true
 ---
 
-I use data to study **prices, risk and decisions under uncertainty**. My current focus is systematic trading research: finding patterns in asset returns and testing whether they survive realistic, out-of-sample backtests.
+My interest in quantitative research began during my M.S. in Data Science and Engineering, when classroom lectures introduced me to how statistics and programming can be used to study financial markets. To learn more, I joined the WallStreetQuants bootcamp, where I work on mentored research projects. Outside the program, I read books on quantitative research and build personal projects to explore and test ideas on my own.
+
+I want to apply my background in statistics and Python to financial problems, such as finding patterns in asset returns, measuring risk, and testing whether a signal holds up after accounting for realistic trading costs and evaluating it on out-of-sample data.
 
 ## Research
 
@@ -28,42 +30,13 @@ I use data to study **prices, risk and decisions under uncertainty**. My current
 
 **Takeaway:** A statistically significant ranking signal is not the same as a tradable strategy. Fat-tailed moves, weak return-level predictability, out-of-sample decay and costs together erased the edge.
 
-[Notebook](REPO_LINK)
-
-### Stock Price Movement Prediction
-*Independent project · [Year]*
-
-Can short-term price direction be predicted from historical price and volume data, and does that predictive power hold out of sample?
-
-- **Data:** [Tickers, date range, source]
-- **Method:** [Features used; models compared]
-- **Findings:** [Accuracy or other result versus a simple baseline]
-
-[Code](REPO_LINK)
-
-### Credit Risk Scoring Model
-*Independent project · [Year]*
-
-Which borrower characteristics best predict loan default, and how well can a transparent model rank risk?
-
-- **Data:** [Dataset name and size]
-- **Method:** [Models compared, e.g. logistic regression vs. gradient boosting]
-- **Findings:** [Key metric, e.g. AUC, and the most important predictors]
-
-[Code](REPO_LINK)
-
-## Interests
-
-- **Statistical arbitrage:** momentum, mean reversion and relative-value signals
-- **Risk modeling:** volatility, drawdowns and credit risk
-- **Prices beyond financial markets:** how storage and price risk shape decisions in commodity and agricultural markets
 
 ## Quantitative Toolkit
 
 | Area | Skills |
 | --- | --- |
 | Mathematics | Linear algebra, probability theory |
-| Statistics | [Regression, hypothesis testing, time-series analysis] |
+| Statistics | Regression, hypothesis testing, time-series analysis|
 | Finance | Backtesting, portfolio construction, performance metrics (Sharpe ratio, drawdown) |
-| Machine learning | [Supervised learning, cross-validation, feature engineering] |
+| Machine learning | Supervised learning, cross-validation, feature engineering |
 | Programming | Python ([NumPy, pandas, scikit-learn]), SQL, C++ |
